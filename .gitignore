@@ -1,0 +1,7 @@
+_site/
+node_modules/
+.env
+.log
+.cache
+.vscode
+**/.DS_Store
